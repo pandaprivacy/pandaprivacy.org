@@ -1,0 +1,22 @@
+title: PANDA Privacy
+description: an NDA for personal data
+url: https://pandaprivacy.org
+homepage: https://pandaprivacy.org
+email: feedback@pandaprivacy.org
+repository: https://github.com/pandaprivacy/pandaprivacy.org
+collections:
+  versions:
+    output: true
+defaults:
+  - {scope: {type: pages}, values: {layout: default}}
+  - {scope: {type: posts}, values: {layout: post}}
+  - {scope: {type: versions}, values: {layout: version}}
+plugins:
+  - jekyll-feed
+feed:
+  path: atom.xml
+exclude:
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md

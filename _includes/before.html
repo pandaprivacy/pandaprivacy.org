@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang=en-US>
+  <head>
+    <meta charset=UTF-8>
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    {% feed_meta %}
+    <title>{{page.title}}</title>
+    <link rel=stylesheet href=/normalize.css>
+    <link rel=stylesheet href=/styles.css>
+  </head>
+  <body>
+    <header role=banner>
+      <h1>{{site.title}}</h1>
+      <p class=description>{{site.description}}</p>
+    </header>
+    <nav role=navigation>
+      <ol>
+        <li><a href=/>Home</a></li>
+        <li><a href=/versions/1.0.0>Terms</a></li>
+      </ol>
+    </nav>

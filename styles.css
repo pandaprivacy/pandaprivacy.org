@@ -1,0 +1,90 @@
+html { font-size: 2.0vw; }
+
+@media all and (min-width:1000px) {
+  html { font-size: 20px; }
+}
+
+@media all and (max-width:520px) {
+  html{ font-size: 14px; }
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.5625;
+  text-rendering: optimizeLegibility;
+}
+
+body > header,
+body > nav,
+body > main,
+body > footer {
+  margin: 2rem auto;
+  max-width: 30rem;
+  padding: 0 1rem;
+}
+
+body > header h1 {
+  font-size: 200%;
+  font-weight: 700;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+body > main {
+  text-align: left;
+}
+
+body > footer {
+  font-size: 85%;
+  margin-top: 4rem;
+  text-align: right;
+}
+
+a[href] {
+  color: #3344dd;
+}
+
+a[href]:hover,
+a[href]:focus,
+a[href]:active {
+  color: #bb1122;
+}
+
+a[href]:visited {
+  color: #884488;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin-bottom: 0;
+  margin-top: 2.5rem;
+}
+
+h1 {
+  font-size: 175%;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+nav > ol,
+footer > ol {
+  padding: 0;
+  list-style: none;
+}
+
+nav > ol > li,
+footer > ol > li {
+  display: inline;
+}
+
+nav > ol > li:after,
+footer > ol > li:after {
+  content: ' | ';
+}
+
+nav > ol > li:last-of-type:after,
+footer > ol > li:last-of-type:after {
+  content: none;
+}

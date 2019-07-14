@@ -1,0 +1,8 @@
+{% include before.html %}
+<main>
+  <h2>{{page.title}}</h2>
+  <p class=version>Version {{page.version}}</p>
+  <p class=date>{{page.date | date: "%B %-d, %Y"}}</p>
+  {{content}}
+</main>
+{% include after.html %}

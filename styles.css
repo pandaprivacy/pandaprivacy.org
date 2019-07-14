@@ -51,6 +51,11 @@ body > footer {
 
 a[href] {
   color: #3344dd;
+  text-decoration: none;
+}
+
+a[href]:hover {
+  text-decoration: underline;
 }
 
 a[href]:hover,

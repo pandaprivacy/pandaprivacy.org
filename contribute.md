@@ -3,6 +3,10 @@ title: Contribute to PANDA
 permalink: /contribute
 ---
 
+# Contribute
+
+Everyone is welcome to contribute to PANDA!
+
 ## Ideas
 
 If you'd like to contribute, but don't know how, here are a few ideas:

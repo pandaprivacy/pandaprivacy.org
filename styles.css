@@ -102,3 +102,9 @@ nav > ol > li:last-of-type:after,
 footer > ol > li:last-of-type:after {
   content: none;
 }
+
+blockquote {
+  border-left: 2px solid #aaa;
+  margin-left: 0;
+  padding-left: 1rem;
+}

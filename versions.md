@@ -1,6 +1,5 @@
 ---
 title: Versions of PANDA
-layout: default
 ---
 
 ## Version of PANDA

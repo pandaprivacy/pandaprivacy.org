@@ -1,6 +1,5 @@
 ---
 title: Privacy Notice
-layout: default
 permalink: /privacy
 ---
 

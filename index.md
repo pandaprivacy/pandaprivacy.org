@@ -7,15 +7,15 @@ The Privacy Assuring Nondisclosure Agreement (PANDA) is a set of [standard legal
 
 PANDA gives you the same protections for your personal information that companies [routinely demand for their business information](https://en.wikipedia.org/wiki/Non-disclosure_agreement):
 
-1.  Use your information [only for specific purposes](/versions/1.0.0#limited-use).
+- Use your information [only for specific purposes](/versions/1.0.0#limited-use).
 
-2.  Make sure employees and contractors [also protect your information](/versions/1.0.0#oversight).
+- Make sure employees and contractors [also protect your information](/versions/1.0.0#oversight).
 
-3.  Take [reasonable security measures](/versions/1.0.0#security).
+- Take [reasonable security measures](/versions/1.0.0#security).
 
-4.  [Return your information, and delete copies](/verions/1.0.0#return-and-destruction), when the relationship ends.
+- [Return your information, and delete copies](/verions/1.0.0#return-and-destruction), when the relationship ends.
 
-5.  Give notice of [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
+- Give notice of [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
 
 {% if site.posts.size > 0 %}
 ## Posts

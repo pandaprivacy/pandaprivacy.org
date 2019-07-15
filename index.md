@@ -19,7 +19,7 @@ PANDA gives you the same protections for your personal information that companie
 
 Service providers can read [more about how to use PANDA](/how).
 
-Everyone is welcome to [contribute to PANDA terms and {{site.url}}](/contribute).
+Everyone is welcome to [contribute to PANDA terms](/contribute).
 
 {% if site.posts.size > 0 %}
 ## Posts

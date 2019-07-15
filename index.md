@@ -4,7 +4,7 @@ layout: default
 
 The Privacy Assuring Nondisclosure Agreement (PANDA) is a set of [standard legal terms](/versions/1.0.0) that protect the privacy of your personal information.
 
-PANDA gives you the same protections for your personal information that companies demand for their business information:
+PANDA gives you the same protections for your personal information that companies [routinely demand for their business information](https://en.wikipedia.org/wiki/Non-disclosure_agreement):
 
 1.  Use your information [only for specific purposes](/versions/1.0.0#limited-use).
 

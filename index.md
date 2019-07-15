@@ -17,6 +17,10 @@ PANDA gives you the same protections for your personal information that companie
 
 - Give notice of [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
 
+Service providers can read [more about how to use PANDA](/how).
+
+Everyone is welcome to [contribute to PANDA terms and {{site.url}}](/contribute).
+
 {% if site.posts.size > 0 %}
 ## Posts
 {% for post in site.posts %}

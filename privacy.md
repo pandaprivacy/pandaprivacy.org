@@ -3,6 +3,8 @@ title: Privacy Notice
 permalink: /privacy
 ---
 
+# {{page.title}}
+
 This privacy policy describes the policies of <{{site.url}}>, a website operated by Kyle E. Mitchell, concerning "personally identifiable information" about you and other visitors.
 
 This policy was put into effect on July 14, 2019.  Changes to this policy will be posted here at <{{site.url}}/privacy>.

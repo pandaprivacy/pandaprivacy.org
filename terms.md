@@ -3,6 +3,8 @@ title: Terms of Service
 permalink: /terms
 ---
 
+# {{page.title}}
+
 These terms govern use of the website <{{site.url}}>.  To use the website, you must agree to these terms with Kyle E. Mitchell, the operator of the website.
 
 Skip to:

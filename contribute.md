@@ -1,5 +1,5 @@
 ---
-title: Contributing to PANDA Privacy
+title: Contribute to PANDA
 layout: default
 permalink: /contribute
 ---

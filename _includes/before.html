@@ -7,15 +7,22 @@
     <title>{% if page.permalink == '/' %}{{page.title}}{% else %}{{page.title}} - {{site.title}}{% endif %}</title>
     <link rel=stylesheet href=/normalize.css>
     <link rel=stylesheet href=/styles.css>
+    {% if page.permalink == '/' %}
+      {% assign title = page.title %}
+      {% assign description = page.description %}
+    {% else %}
+      {% assign title = site.title %}
+      {% assign description = site.description %}
+    {% endif %}
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{page.title}}">
-    <meta name="twitter:description" content="{{page.description}}">
+    <meta name="twitter:title" content="{{title}}">
+    <meta name="twitter:description" content="{{description}}">
     <!--<meta name="twitter:image" content="{{site.image}}">-->
     <!-- OpenGraph -->
     <meta name="og:type" content="website">
-    <meta name="og:title" content="{{page.title}}">
-    <meta name="og:description" content="{{page.description}}">
+    <meta name="og:title" content="{{title}}">
+    <meta name="og:description" content="{{description}}">
     <!--<meta name="og:image" content="{{site.image}}">-->
     <meta name="og:site" content="{{site.title}}">
   </head>

@@ -24,4 +24,4 @@ To propose changes to the homepage, edit [`index.md`]({{site.repository}}/blob/m
 
 ## Licensing
 
-However you contribute, please be prepared to make your work available under the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
+However you contribute, please be prepared to make your work available under Creative Commons' [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.

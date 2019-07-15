@@ -25,3 +25,5 @@ Every page on <{{site.url}}> uses on content, images, styles, and other assets f
 access_log /dev/null;
 error_log /dev/null;
 ```
+
+<{{site.url}}> is hosted on [Linode](https://www.linode.com).  You can read Linode's privacy policy [online](https://www.linode.com/privacy).

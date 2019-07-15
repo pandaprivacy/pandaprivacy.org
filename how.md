@@ -1,5 +1,6 @@
 ---
 title: How to Use PANDA
+description: an example for service providers
 permalink: /how
 ---
 

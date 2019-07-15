@@ -1,5 +1,6 @@
 ---
 title: Contribute to PANDA
+description: anyone can help make PANDA better
 permalink: /contribute
 ---
 

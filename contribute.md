@@ -4,7 +4,7 @@ layout: default
 permalink: /contribute
 ---
 
-## Wishlist
+## Ideas
 
 If you'd like to contribute, but don't know how, here are a few ideas:
 

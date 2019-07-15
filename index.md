@@ -7,13 +7,13 @@ The <u>P</u>rivacy <u>A</u>ssuring <u>N</u>on<u>d</u>isclosure <u>A</u>greement 
 
 - Use your information [only for specific purposes](/versions/1.0.0#limited-use).
 
-- Make sure employees and contractors [also protect your information](/versions/1.0.0#oversight).
+- Make sure employees and contractors [protect your information, too](/versions/1.0.0#oversight).
 
-- Take [reasonable security measures](/versions/1.0.0#security).
+- Take measures [to keep your information secure](/versions/1.0.0#security).
 
-- [Return your information, and delete copies](/verions/1.0.0#return-and-destruction), when the relationship ends.
+- [Return your information, and delete their copies](/verions/1.0.0#return-and-destruction), when the relationship ends.
 
-- Give notice of [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
+- Tell you about [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
 
 Service providers can read [more about how to use PANDA](/how).
 

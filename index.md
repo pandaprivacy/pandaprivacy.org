@@ -3,9 +3,7 @@ layout: default
 permalink: /
 ---
 
-The <u>P</u>rivacy <u>A</u>ssuring <u>N</u>on<u>d</u>isclosure <u>A</u>greement (PANDA) is a set of [standard legal terms](/versions/1.0.0) that protect the privacy of your personal information.
-
-PANDA gives you the same protections for your personal information that companies [routinely demand for their business information](https://en.wikipedia.org/wiki/Non-disclosure_agreement):
+The <u>P</u>rivacy <u>A</u>ssuring <u>N</u>on<u>d</u>isclosure <u>A</u>greement (PANDA) is a set of [standard legal terms](/versions/1.0.0) that protect the privacy of your personal information.  PANDA gives you the same protections for your personal information that companies [routinely demand for their business information](https://en.wikipedia.org/wiki/Non-disclosure_agreement):
 
 - Use your information [only for specific purposes](/versions/1.0.0#limited-use).
 

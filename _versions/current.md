@@ -1,8 +1,4 @@
----
-title: The Privacy Assuring Nondisclosure Agreement (PANDA)
-version: 1.0.0
-date: 2019-07-14
----
+# The Privacy Assuring Nondisclosure Agreement (PANDA)
 
 These terms protect _Personal Information_ that **Discloser** may disclose to **Recipient**.
 

@@ -16,6 +16,7 @@ plugins:
 feed:
   path: atom.xml
 exclude:
+  - _versions/current.md
   - Gemfile
   - Gemfile.lock
   - README.md

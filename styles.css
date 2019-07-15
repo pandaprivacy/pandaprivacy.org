@@ -20,11 +20,12 @@ body > main,
 body > footer {
   margin: 2rem auto;
   max-width: 30rem;
-  padding: 0 1rem;
+  padding: 0;
 }
 
 body > header {
   margin-bottom: 0;
+  border-bottom: 2px solid black;
 }
 
 body > header h1 {
@@ -34,18 +35,19 @@ body > header h1 {
   margin-top: 0;
 }
 
-body > nav, body > nav > ol {
+nav[role=navigation] {
   margin-top: 0;
-  padding-top: 0;
+  border-bottom: 1px solid black;
 }
 
 body > main {
   text-align: left;
 }
 
-body > footer {
+footer[role=contentinfo] {
+  border-top: 1px solid black;
   font-size: 85%;
-  margin-top: 4rem;
+  margin-top: 2.5rem;
   text-align: right;
 }
 
@@ -91,11 +93,7 @@ footer > ol {
 nav > ol > li,
 footer > ol > li {
   display: inline;
-}
-
-nav > ol > li:after,
-footer > ol > li:after {
-  content: ' | ';
+  padding-right: 1rem;
 }
 
 nav > ol > li:last-of-type:after,
@@ -108,3 +106,4 @@ blockquote {
   margin-left: 0;
   padding-left: 1rem;
 }
+

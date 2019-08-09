@@ -5,7 +5,7 @@
     <meta name=viewport content="width=device-width, initial-scale=1">
     {% feed_meta %}
 
-    <title>{% if page.permalink == '/' %}{{page.title}}{% else %}{{page.title}} - {{site.title}}{% endif %}</title>
+    <title>{% if page.permalink == '/' %}{{site.title}}{% else %}{{page.title}} - {{site.title}}{% endif %}</title>
 
     <link rel=stylesheet href=/normalize.css>
     <link rel=stylesheet href=/styles.css>

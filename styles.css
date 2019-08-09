@@ -14,40 +14,65 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-body > header,
-body > nav,
+header[role=banner],
+nav[role=navigation],
 body > main,
-body > footer {
+footer[role=contentinfo] {
   margin: 2rem auto;
   max-width: 30rem;
   padding: 0;
 }
 
-body > header {
-  text-align: center;
-  margin-top: 3rem;
+header[role=banner] {
   margin-bottom: 0;
-  border-bottom: 2px solid black;
+  margin-top: 3rem;
+  text-align: center;
 }
 
-body > header h1 {
+header[role=banner] h1 {
   font-size: 200%;
   font-weight: 700;
   margin-bottom: 0;
   margin-top: 1rem;
 }
 
-body > header > img {
+header[role=banner] img {
   width: 100%;
 }
 
-nav[role=navigation] {
+nav[role=navigation],
+footer[role=contentinfo] {
+  background: black;
   border-bottom: 1px solid black;
-  margin-top: 0;
+  color: white;
+  margin: 0 auto;
+  padding: 0.5rem 0;
   text-align: center;
 }
 
+nav[role=navigation] ol,
+footer[role=contentinfo] ol {
+  margin: 0;
+  padding: 0;
+}
+
+nav[role=navigation] a[href],
+footer[role=contentinfo] a[href] {
+  color: white;
+  display: inline-block;
+  padding: 0.25rem 0.25rem;
+  text-transform: lowercase;
+}
+
+nav[role=navigation] a[href]:hover,
+footer[role=contentinfo] a[href]:hover {
+  background: white;
+  color: black;
+  text-decoration: none;
+}
+
 body > main {
+  margin-top: 1.75rem;
   text-align: left;
 }
 
@@ -55,6 +80,7 @@ footer[role=contentinfo] {
   border-top: 1px solid black;
   font-size: 85%;
   margin-top: 2.5rem;
+  margin-bottom: 3rem;
   text-align: center;
 }
 

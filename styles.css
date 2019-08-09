@@ -20,7 +20,7 @@ body > main,
 footer[role=contentinfo] {
   margin: 2rem auto;
   max-width: 30rem;
-  padding: 0;
+  padding: 0 2rem;
 }
 
 header[role=banner] {

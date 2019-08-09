@@ -24,6 +24,8 @@ body > footer {
 }
 
 body > header {
+  text-align: center;
+  margin-top: 3rem;
   margin-bottom: 0;
   border-bottom: 2px solid black;
 }
@@ -32,7 +34,7 @@ body > header h1 {
   font-size: 200%;
   font-weight: 700;
   margin-bottom: 0;
-  margin-top: 0;
+  margin-top: 1rem;
 }
 
 body > header > img {
@@ -40,8 +42,9 @@ body > header > img {
 }
 
 nav[role=navigation] {
-  margin-top: 0;
   border-bottom: 1px solid black;
+  margin-top: 0;
+  text-align: center;
 }
 
 body > main {
@@ -52,7 +55,7 @@ footer[role=contentinfo] {
   border-top: 1px solid black;
   font-size: 85%;
   margin-top: 2.5rem;
-  text-align: right;
+  text-align: center;
 }
 
 a[href] {

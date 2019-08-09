@@ -8,11 +8,11 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{% if page.permalink == '/' %}{{site.title}}{% else %}{{page.title}}{% endif %}">
-    <meta name="twitter:description" content="{{description}}">
+    <meta name="twitter:description" content="{% if page.permalink == '/' %}{{site.description}}{% else %}{{page.description}}{% endif %}">
     <meta name="twitter:image" content="{{site.image}}">
     <!-- OpenGraph -->
     <meta name="og:type" content="website">
     <meta name="og:title" content="{% if page.permalink == '/' %}{{site.title}}{% else %}{{page.title}}{% endif %}">
-    <meta name="og:description" content="{{description}}">
+    <meta name="og:description" content="{% if page.permalink == '/' %}{{site.description}}{% else %}{{page.description}}{% endif %}">
     <meta name="og:image" content="{{site.image}}">
     <meta name="og:site" content="{{site.title}}">

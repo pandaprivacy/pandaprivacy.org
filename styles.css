@@ -35,6 +35,10 @@ body > header h1 {
   margin-top: 0;
 }
 
+body > header > img {
+  width: 100%;
+}
+
 nav[role=navigation] {
   margin-top: 0;
   border-bottom: 1px solid black;

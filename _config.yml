@@ -3,6 +3,7 @@ description: the NDA for your personal information
 url: https://pandaprivacy.org
 homepage: https://pandaprivacy.org
 email: feedback@pandaprivacy.org
+image: https://pandaprivacy.org/assets/social.png
 repository: https://github.com/pandaprivacy/pandaprivacy.org
 collections:
   versions:

@@ -12,7 +12,7 @@ The <u>P</u>rivacy <u>A</u>ssuring <u>N</u>on<u>d</u>isclosure <u>A</u>greement 
 
 - Take measures [to keep your information secure](/versions/1.0.0#security).
 
-- [Return your information, and delete their copies](/verions/1.0.0#return-and-destruction), when the relationship ends.
+- [Return your information, and delete their copies](/versions/1.0.0#return-and-destruction), when the relationship ends.
 
 - Tell you about [leaks](/versions/1.0.0#leaks) and [government requests](/versions/1.0.0#required-disclosure).
 
